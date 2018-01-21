@@ -1,0 +1,9 @@
+Building Grigora
+
+See doc/readme-qt.rst for instructions on building Grigora-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Grigora.
+
+See doc/build-*.txt for instructions on building grigorad,
+the intended-for-services, no-graphical-interface, reference
+implementation of Grigora.
